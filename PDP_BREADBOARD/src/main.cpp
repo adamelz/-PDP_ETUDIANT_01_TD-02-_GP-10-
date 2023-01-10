@@ -96,6 +96,4 @@ void setup()
 void loop()
 {
   // Effectuer une mesure toutes les 5s
-
-  // Afficher la température avec un peu de formatage
 }
